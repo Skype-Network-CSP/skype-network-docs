@@ -25,7 +25,7 @@
 <tr>
 <td>UINT32</td>
 <td><code>N/A</code></td>
-<td>PacketType ( 1 byte, see <a href="#">packet types</a>)</td>
+<td>PacketType (1 byte)</td>
 </tr>
 <tr>
 <td>UINT32</td>

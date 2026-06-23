@@ -13,10 +13,5 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>UL</td>
-</tr>
-<tr>
-</tr>
 </tbody>
 </table>

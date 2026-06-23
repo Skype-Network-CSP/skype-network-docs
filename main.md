@@ -8,7 +8,6 @@
 <thead>
 <tr>
 <th>Data type</th>
-<th>Description</th>
 <th>Example</th>
 <th>Value</th>
 </tr>
@@ -16,7 +15,6 @@
 <tbody>
 <tr>
 <td>UL</td>
-<td>Packet Transaction ID</td>
 <td><code>02 01</code></td>
 <td>TransID</td>
 </tr>
@@ -26,7 +24,7 @@
 <tr>
 <td>UL</td>
 <td><code>03</code></td>
-<td>PacketType</td>
+<td>PacketType (see <a href="#">packet types</a>)</td>
 </tr>
 </tbody>
 </table>

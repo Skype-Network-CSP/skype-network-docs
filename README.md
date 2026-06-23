@@ -1,1 +1,1 @@
-# skype-network-docs
+# Skype Network Docs

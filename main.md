@@ -1,5 +1,7 @@
 <h1>Connecting to Server</h1>
 <p>Skype uses UDP-supernode ports 33033 and TCP-supernode port 443 or 33033.</p>
+<p>Earlier versions of Skype (1.x–5.x) used the Event Server to exchange data between the client and the server (contacts, statuses, messages).</p>
+<p>Later, Skype switched to the <strong>MSNP24</strong> protocol — the same protocol used by <strong>Windows Live Messenger</strong>.</p>
 
 <h1>Skype UDP Packet Structure</h1>
 <p>The Skype protocol is binary. Numbers use Big-Endian for the header, then Little-Endian for the encrypted body.</p>

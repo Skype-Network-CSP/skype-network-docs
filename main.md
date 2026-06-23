@@ -3,7 +3,7 @@
 
 <h1>Skype UDP Packet Structure</h1>
 <p>The Skype protocol is binary, numbers use Big-Endian, then Little-Endian</p>
-<p>When connected to a UDP super node, Skype sends a test request to verify the node which looks like this:</p>
+<p>When connected to a UDP-supernode, Skype sends a test request to verify the node which looks like this:</p>
 
 <table>
 <thead>

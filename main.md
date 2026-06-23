@@ -62,7 +62,7 @@
 <tr>
 <td>UINT16</td>
 <td><code>0xDA01</code></td>
-<td>ProbeCMD (see <a href="#">packet types</a>)</td>
+<td>ProbeCMD (see <a href="#">cmd list</a>)</td>
 </tr>
 <tr>
 <td>UINT16</td>

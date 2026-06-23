@@ -9,13 +9,13 @@
 <tr>
 <th>Data type</th>
 <th>Description</th>
-<th>Example</th>
+<th>Value</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>UL</td>
-<td>a two-byte number</td>
 <td><code>01 02</code></td>
+<td>TransID</td>
 </tbody>
 </table>

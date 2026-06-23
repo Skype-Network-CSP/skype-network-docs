@@ -53,7 +53,7 @@
 <tr>
     <td>UINT8</td>
     <td><code>N/A</code></td>
-    <td>PayLoadLen)</td>
+    <td>PayLoadLen</td>
 </tr>
 <tr>
     <td>UINT16</td>
@@ -73,7 +73,7 @@
 <tr>
     <td>UINT8</td>
     <td><code>0x01</code></td>
-    <td>NbObj (Number of objects)</td>
+    <td>NbObj</td>
 </tr>
 </tbody>
 </table>

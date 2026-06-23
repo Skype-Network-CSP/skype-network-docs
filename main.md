@@ -16,7 +16,7 @@
 <tbody>
 <tr>
 <td>UINT16</td>
-<td><code>N/A</code></td>
+<td><code>0x03</code></td>
 <td>TransID</td>
 </tr>
 </tr>
@@ -61,7 +61,7 @@
 <tbody>
 <tr>
 <td>UINT16</td>
-<td><code>N/A</code></td>
+<td><code>0xDA01</code></td>
 <td>ProbeCMD (see <a href="#">packet types</a>)</td>
 </tr>
 <tr>

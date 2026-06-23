@@ -15,7 +15,7 @@
 <tbody>
 <tr>
 <td>UL</td>
-<td><code>02 01</code></td>
+<td><code>0x0100</code></td>
 <td>TransID</td>
 </tr>
 </tr>
@@ -23,7 +23,7 @@
 <tbody>
 <tr>
 <td>UL</td>
-<td><code>03</code></td>
+<td><code>0x03</code></td>
 <td>PacketType (see <a href="#">packet types</a>)</td>
 </tr>
 </tbody>

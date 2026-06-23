@@ -5,7 +5,7 @@
 <p>The Skype protocol is binary. Numbers use Big-Endian for the header, then Little-Endian for the encrypted body.</p>
 <p>When connected to a UDP-supernode, Skype sends a test request to verify the node which looks like this:</p>
 
-<h2>ProbeHeader (11 bytes):</h2>
+<h2>ProbeHeader:</h2>
 
 <table>
 <thead>
@@ -39,7 +39,7 @@
 </tbody>
 </table>
 
-<h2>ProbeBody (7 bytes):</h2>
+<h2>ProbeBody:</h2>
 
 <table>
 <thead>

@@ -17,5 +17,14 @@
 <td>UL</td>
 <td><code>02 01</code></td>
 <td>TransID</td>
+</tr>
+  </tr>
+</thead>
+<tbody>
+<tr>
+<td>UL</td>
+<td><code>02 01</code></td>
+<td>TransID</td>
+</tr>
 </tbody>
 </table>

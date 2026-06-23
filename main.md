@@ -15,7 +15,7 @@
 <tbody>
 <tr>
 <td>UL</td>
-<td><code>0x0100</code></td>
+<td><code>N/A</code></td>
 <td>TransID</td>
 </tr>
 </tr>
@@ -23,8 +23,18 @@
 <tbody>
 <tr>
 <td>UL</td>
-<td><code>0x03</code></td>
+<td><code>N/A</code></td>
 <td>PacketType (see <a href="#">packet types</a>)</td>
+</tr>
+<tr>
+<td>UL</td>
+<td><code>N/A</code></td>
+<td>IV</td>
+</tr>
+<tr>
+<td>UL</td>
+<td><code>N/A</code></td>
+<td>CRC32</td>
 </tr>
 </tbody>
 </table>

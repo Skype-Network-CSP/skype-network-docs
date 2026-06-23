@@ -77,3 +77,5 @@
 </tr>
 </tbody>
 </table>
+
+<p>ProbeBody is encrypted in RC4, encryption will be described in the future.</p>

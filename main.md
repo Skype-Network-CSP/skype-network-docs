@@ -40,3 +40,26 @@
 </tbody>
 </table>
 <p>ProbeBody:</p>
+<table>
+<thead>
+<tr>
+<th>Data type</th>
+<th>Example</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+</tr>
+</tr>
+</thead>
+<tbody>
+<tr>
+</tr>
+<tr>
+
+</tr>
+
+</tr>
+</tbody>
+</table>

@@ -3,8 +3,8 @@
 <p>Earlier versions of Skype (1.x–5.x) used the Event Server to exchange data between the client and the server (contacts, statuses, messages). Later, Skype switched to the <a href="#">MSNP24</a> protocol after <a href="#">Windows Live Messenger</a> was discontinued.</p>
 
 <h1>Skype UDP Packet Structure</h1>
-<p>The Skype protocol is binary. Numbers use Big-Endian for the header, then Little-Endian for the encrypted body.</p>
-<p>When connected to a UDP-supernode, Skype sends a test request to verify the node which looks like this:</p>
+<p>The Skype protocol is binary. Numbers use Big-Endian for the header, then Little-Endian for the encrypted body. 
+When connected to a UDP-supernode, Skype sends a test request to verify the node which looks like this:</p>
 
 <h2>ProbeHeader:</h2>
 

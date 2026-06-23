@@ -10,7 +10,7 @@
 <tr>
 <th>Data type</th>
 <th>Example</th>
-<th>Value</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>

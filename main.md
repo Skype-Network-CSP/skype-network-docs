@@ -15,7 +15,7 @@
 <tbody>
 <tr>
 <td>UL</td>
-<td><code>01 02</code></td>
+<td><code>02 01</code></td>
 <td>TransID</td>
 </tbody>
 </table>

@@ -25,7 +25,7 @@
 <tr>
 <td>UINT8</td>
 <td><code>N/A</code></td>
-<td>PacketType</td>
+<td>PacketType (see <a href="#">packet types</a></td>
 </tr>
 <tr>
 <td>UINT32</td>

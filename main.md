@@ -17,7 +17,7 @@
 <tr>
 <td>UINT32</td>
 <td><code>N/A</code></td>
-<td>TransID</td>
+<td>TransID (2 bytes)</td>
 </tr>
 </tr>
 </thead>
@@ -25,17 +25,17 @@
 <tr>
 <td>UINT32</td>
 <td><code>N/A</code></td>
-<td>PacketType (see <a href="#">packet types</a>)</td>
+<td>PacketType ( 1 byte, see <a href="#">packet types</a>)</td>
 </tr>
 <tr>
 <td>UINT32</td>
 <td><code>N/A</code></td>
-<td>IV</td>
+<td>IV (4 bytes)</td>
 </tr>
 <tr>
 <td>UINT32</td>
 <td><code>N/A</code></td>
-<td>CRC32</td>
+<td>CRC32 (4 bytes)</td>
 </tr>
 </tbody>
 </table>

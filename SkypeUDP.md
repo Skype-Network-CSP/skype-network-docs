@@ -62,12 +62,12 @@
 </tr>
 <tr>
     <td>UINT8</td>
-    <td><code>N/A</code></td>
+    <td><code>0x42</code></td>
     <td>ParamListType</td>
 </tr>
 <tr>
     <td>UINT8</td>
-    <td><code>0x01</code></td>
+    <td><code>N/A</code></td>
     <td>NbObj</td>
 </tr>
 </tbody>

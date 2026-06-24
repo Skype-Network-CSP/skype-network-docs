@@ -18,7 +18,7 @@
 </tr>
 <tr>
     <td>UINT8</td>
-    <td><code>0x03</code></td>
+    <td><code>0x02</code></td>
     <td>PacketType (see <a href="#">packet types</a>)</td>
 </tr>
 <tr>

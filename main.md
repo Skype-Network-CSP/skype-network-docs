@@ -5,5 +5,5 @@
 <h1>Skype Packet Structure</h1>
 <p>The Skype protocol is binary. Numbers use Big-Endian, then Little-Endian.</p>
 
-<p> ▶ <a href="#">UDP SuperNode Structure</a></p>
-<p> ▶ <a href="#">TCP SuperNode Structure</a></p>
+<p><a href="#">UDP SuperNode Structure</a></p>
+<p><a href="#">TCP SuperNode Structure</a></p>

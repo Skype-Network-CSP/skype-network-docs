@@ -1,4 +1,5 @@
 <h1>Skype UDP SuperNode</h1>
+<p>Skype uses port 33033 for the UDP supernode, it sends a Probe request to verify the node:</p>
 <h2>ProbeHeader:</h2>
 
 <table>

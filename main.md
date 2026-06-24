@@ -58,7 +58,7 @@ When connected to a UDP-supernode, Skype sends a test request to verify the node
 </tr>
 <tr>
     <td>UINT16</td>
-    <td><code>01 DA</code></td>
+    <td><code>0xDA01</code></td>
     <td>ProbeCMD (see <a href="#">cmd list</a>)</td>
 </tr>
 <tr>
